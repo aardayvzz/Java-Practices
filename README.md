@@ -15,3 +15,8 @@ Today, I didn't just write code; I started using version control like a professi
 git add .
 git commit -m "brief summary of changes"
 git push origin main
+
+## Day 2: Control Flow & Arrays
+Practiced core algorithmic concepts and logic building.
+* **NumberGuessing.java:** A console-based game using `while` loops, Scanner , and Random. Implemented a custom attempt/life system to practice logical operators.
+* **ArrayPractice.java:** Used `for` loops to iterate over integer arrays. Built an algorithm from scratch to calculate the maximum score and the average value of the array elements.
